@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi there 👋 My name is Emily! <3
 
 <!--
 **emilyyeh123/emilyyeh123** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +14,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+:notebook_with_decorative_cover: I'm studying :computer: Computer Engineering at :school: University of the Pacific in Stockton, CA.\
+In my free time, I enjoy doing various arts & crafts projects :art: and playing with my dog :dog:.
